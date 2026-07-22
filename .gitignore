@@ -1,0 +1,14 @@
+# Audio must never be committed (copyrighted source recordings)
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aiff
+audio/
+local_audio/
+
+# OS / editor junk
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
