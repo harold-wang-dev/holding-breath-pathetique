@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Breath Aligner Stub</title>
+  <style>
+    body { font-family: Georgia, serif; margin: 32px; background: #f6f1e8; color: #181512; }
+    .card { background: #fffaf3; border: 1px solid #d6cabd; border-radius: 14px; padding: 18px; margin: 18px 0; }
+    select, button { font: inherit; padding: 6px 8px; margin-right: 8px; }
+    pre { background: #f2e7d8; padding: 12px; border-radius: 8px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>Breath Aligner Stub</h1>
+  <div class="card">
+    <p>This local-only stub reads the derived event table and optional local audio mappings. It is included as code only; no audio is bundled in this repository.</p>
+    <label for="recording">Recording</label>
+    <select id="recording"></select>
+    <label for="pause">Pause</label>
+    <select id="pause">
+      <option value="P1">P1</option>
+      <option value="P2">P2</option>
+      <option value="P3">P3</option>
+      <option value="P4">P4</option>
+    </select>
+    <button id="show">Show Event</button>
+  </div>
+  <div class="card">
+    <h2>Selected Event</h2>
+    <pre id="output">Waiting for selection...</pre>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
