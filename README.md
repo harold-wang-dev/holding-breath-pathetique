@@ -1,6 +1,6 @@
 # Holding Breath in Beethoven
 
-This repository packages the reproducibility materials for **"Holding Breath in Beethoven: Active-Silence Strategies in the Grave of the Pathetique,"** submitted to **ISMIR LBD 2026** as a **non-archival** late-breaking demo paper. It contains code, extracted timing features, derived figures, and a documented source manifest for the July 21, 2026 verified study set.
+This repository packages the reproducibility materials for **"Holding Breath in Beethoven: Active-Silence Strategies in the Grave of the Pathetique,"** prepared for submission to **ISMIR LBD 2026** as a **non-archival** late-breaking demo paper. It contains code, extracted timing features, derived figures, and a documented source manifest for the July 21, 2026 verified study set.
 
 The shipped CSV feature tables are the canonical July 21, 2026 verified outputs used for the draft. Re-running the detector on newly re-obtained audio or a different `ffmpeg` build can shift a small number of pause boundaries.
 
@@ -38,6 +38,6 @@ python3 code/01_detect.py --audio-dir "$HB_AUDIO_DIR" && python3 code/02_normali
 
 ## How To Cite
 
-Harold Wang, *Holding Breath in Beethoven: Active-Silence Strategies in the Grave of the Pathetique*, submitted to ISMIR LBD 2026.
+Harold Wang, *Holding Breath in Beethoven: Active-Silence Strategies in the Grave of the Pathetique*, prepared for submission to ISMIR LBD 2026.
 
 Contact: haroldw101313@wpga.ca
