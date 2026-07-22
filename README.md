@@ -39,3 +39,5 @@ python3 code/01_detect.py --audio-dir "$HB_AUDIO_DIR" && python3 code/02_normali
 ## How To Cite
 
 Harold Wang, *Holding Breath in Beethoven: Active-Silence Strategies in the Grave of the Pathetique*, submitted to ISMIR LBD 2026.
+
+Contact: haroldw101313@wpga.ca
