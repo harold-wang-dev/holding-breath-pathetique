@@ -1,0 +1,19 @@
+recording_id,pianist,ATEPP_id,source_URL,verification_date,notes
+AB,Alfred Brendel,08008,https://www.youtube.com/watch?v=mlxF5I1MfbM,2026-07-21,core corpus
+AS,Artur Schnabel,08010,https://www.youtube.com/watch?v=IBx8Xx1diT8,2026-07-21,Historical extension only; ATEPP quality flag = background noise; excluded from core statistics.
+CA,Claudio Arrau,07998,https://www.youtube.com/watch?v=lKVAHReNEd8,2026-07-21,core corpus
+DB,Daniel Barenboim,07994,https://www.youtube.com/watch?v=qKVSs8XZH00,2026-07-21,Core corpus; earliest still-accessible ATEPP-linked Barenboim entry substituted on 2026-07-21 for an unavailable source URL.
+EF,Edwin Fischer,08029,https://www.youtube.com/watch?v=4TKQrybzm2Q,2026-07-21,core corpus
+EG,Emil Gilels,07974,https://www.youtube.com/watch?v=V6x9R5H88L4,2026-07-21,core corpus
+FG,Friedrich Gulda,08014,https://www.youtube.com/watch?v=owplWRbGfpw,2026-07-21,core corpus
+GG,Glenn Gould,08000,https://www.youtube.com/watch?v=772tHS4WA9M,2026-07-21,core corpus
+LB,Lazar Berman,08034,https://www.youtube.com/watch?v=ExWqEiP0elw,2026-07-21,core corpus
+MP,Maurizio Pollini,07981,https://www.youtube.com/watch?v=Df8YhaP0AHM,2026-07-21,core corpus
+RL,Radu Lupu,08019,https://www.youtube.com/watch?v=Vnm9pkKZ_6c,2026-07-21,core corpus
+SR,Sviatoslav Richter,07971,https://www.youtube.com/watch?v=tJ4gnX0MD0A,2026-07-21,core corpus
+VA,Vladimir Ashkenazy,07984,https://www.youtube.com/watch?v=VEqugBYU-Hk,2026-07-21,core corpus
+VC,Van Cliburn,08009,https://www.youtube.com/watch?v=tzI-ngwCMjs,2026-07-21,core corpus
+VH,Vladimir Horowitz,07978,https://www.youtube.com/watch?v=aidT2f7jBwg,2026-07-21,core corpus
+WG,Walter Gieseking,07985,https://www.youtube.com/watch?v=XTOlGFKUD94,2026-07-21,core corpus
+WK,Wilhelm Kempff,08026,https://www.youtube.com/watch?v=mexsAFrVmbw,2026-07-21,core corpus
+ZK,Zoltán Kocsis,08033,https://www.youtube.com/watch?v=Efx9aF1w61o,2026-07-21,core corpus
